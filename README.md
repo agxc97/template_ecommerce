@@ -1,1 +1,6 @@
-Deployed on: https://agxc-ecommerce-demo.netlify.app/
+# 🌟 eWallet Template 🌟
+
+## 🚀 Deployed on: 
+https://agxc-ecommerce-demo.netlify.app/
+
+## 💻 Technologies Used:
